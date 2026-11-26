@@ -34,8 +34,8 @@
 
 ### 🎓 Training
 
-- **Web Development Training** – Avaptech Solutions
-- **Python Development Training** – Infotech Soft Solutions (6 Months)
+- **Web Development Training** – Avaptech Solutions (6 Months)
+- **AI & ML Training** – Infotech Soft Solutions (6 Months)
 
 ---
 
@@ -53,7 +53,6 @@
 - Artificial Intelligence
 - Machine Learning
 - Generative AI
-- LangChain
 
 ---
 
