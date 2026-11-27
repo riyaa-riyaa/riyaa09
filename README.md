@@ -12,7 +12,7 @@
 
 - 💻 Passionate about Web Development and Python
 - 🌱 Currently learning **Artificial Intelligence & Machine Learning**
-- 🤖 Exploring **Generative AI and LangChain**
+- 🤖 Exploring **Generative AI and Data Analysis**
 - 🚀 Interested in building real-world applications
 - 🎯 Always learning and improving my technical skills
 
@@ -28,7 +28,7 @@
 - **Backend:** PHP, MySQL
 - **Programming:** Python, C, C++
 - **Platforms:** WordPress, Elementor, Shopify
-- **Currently Exploring:** AI, Machine Learning, LangChain
+- **Currently Exploring:** AI, Machine Learning, Python
 
 ---
 
